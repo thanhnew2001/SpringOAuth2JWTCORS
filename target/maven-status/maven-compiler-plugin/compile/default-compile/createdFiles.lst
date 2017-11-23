@@ -3,7 +3,9 @@ config/CustomUserDetailsService$1.class
 config/SecurityConfig.class
 config/CustomUserDetailsService.class
 config/WebAppInitializer.class
+config/AuthorizationServerConfig.class
 controller/StudentController.class
 config/AppConfig.class
 model/Student.class
+config/ResourceServerConfig.class
 service/StudentService.class
